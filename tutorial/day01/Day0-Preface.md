@@ -16,7 +16,6 @@
 
 Python的创始人为Guido van Rossum，当时他在阿姆斯特丹的荷兰数学和计算机科学研究学会工作。1989年的圣诞节期间，Guido为了打发时间而创造了Python。新编程语言之所以命名为Python，是因为他是BBC电视剧——`Monty Python's Flying Circus`的忠实粉丝。
 
-
 <center>
     <img style="border-radius: 0.3125em;zoom: 100%;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -25,8 +24,9 @@ Python的创始人为Guido van Rossum，当时他在阿姆斯特丹的荷兰数�
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">life is short, use Python</div>
+    padding: 2px;">穿Life is short, use Python衬衫的Guido</div>
 </center>
+
 
 
 <center>
